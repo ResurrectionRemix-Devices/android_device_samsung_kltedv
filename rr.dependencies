@@ -1,0 +1,56 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "fessmm/android_device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "branch":      "oreo"
+  },
+  {
+    "remote":      "github",
+    "repository":  "fessmm/kernel_samsung_msm8974",
+    "target_path": "kernel/samsung/msm8974",
+    "branch":      "oreo"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "fessmm/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch":      "oreo"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap",
+    "branch":      "lineage-15.1"
+  }
+]
