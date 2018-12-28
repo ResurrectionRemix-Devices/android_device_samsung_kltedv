@@ -15,10 +15,10 @@
 # limitations under the License.
 #
 
-# Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common RR stuff.
+$(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
 $(call inherit-product, device/samsung/kltedv/full_kltedv.mk)
 
 PRODUCT_DEVICE := kltedv
-PRODUCT_NAME := lineage_kltedv
+PRODUCT_NAME := rr_kltedv
