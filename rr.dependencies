@@ -19,9 +19,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "TheMuppets/proprietary_vendor_samsung",
+    "repository":  "fessmm/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch":      "lineage-16.0"
+    "branch":      "pie"
   },
   {
     "remote":      "github",
